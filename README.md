@@ -3,6 +3,7 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moosethecoder&margin-w=15&theme=gruvbox&title=MultiLanguage,Repositories,Commit,PullRequest,Stars,Followers" alt="moosethecoder" /></a> </p>
+<hr />
 
 <p align="center">
   I use PHP to create APIs, Vue.js to make frontend applications and node for anything else.
@@ -27,6 +28,30 @@
 
 <p align="center">
   (and a bunch more....)
+</p>
+
+<hr />
+
+<p align="center">
+I am the CTO and Founder of TakePay.<br /><br /> We are currently in the process of becoming a payment facilitator to fill a gap in a local market.
+</p>
+<p align="center">
+  <img src="https://github.com/MooseTheCoder/moosethecoder/blob/main/logo.png?raw=true" width="200" >
+</p>
+
+<p align="center">
+  TakePay recently bought all code belonging to Synet Systems and took over their infrustructure.
+</p>
+
+<p align="center">
+  <img src="https://github.com/MooseTheCoder/moosethecoder/blob/main/favicon.png?raw=true" width="100" >
+</p>
+
+<hr />
+
+<p align="center">
+  <img src="https://github.com/MooseTheCoder/moosethecoder/blob/main/sunmi-partner-1.png?raw=true" width="150">
+  <img src="https://github.com/MooseTheCoder/moosethecoder/blob/main/sunmi-partner-2.png?raw=true" width="150">
 </p>
 
 <!--
