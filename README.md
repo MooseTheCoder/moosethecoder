@@ -1,47 +1,50 @@
 <p align="center">
-<b>Hi there, I'm Mark 👋</b>
+  <img src="https://avatars.githubusercontent.com/u/91534122?v=4" width="160" style="border-radius:50%"/>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moosethecoder&margin-w=15&theme=gruvbox&title=MultiLanguage,Repositories,Commit,PullRequest,Stars,Followers" alt="moosethecoder" /></a> </p>
+<h1 align="center">Hi, I'm Mark 👋</h1>
+
+<p align="center">
+  <b>Software Engineer &amp; Hardware Specialist</b> · Belfast, Northern Ireland 🇬🇧<br/>
+  I write code — mostly APIs, frontends, and whatever the job needs.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mark-ireland/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/moosethecoder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 <hr />
 
-<p align="center">
-  I use PHP to create APIs, Vue.js to make frontend applications and node for anything else.
-</p>
+### 🧑‍💻 What I do
 
-<p align="center">I'm currently working at SafetyNet Access as a Software Engineer / Hardware Specialist</p>
+I build software end to end — currently at **Safety NetAccess** as a Software Engineer / Hardware Specialist, where working across both sides of the stack (and the actual hardware) is part of the day job.
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/91534122?v=4" width="200"/>
-</p>
+- 🔧 **PHP** for building APIs
+- 🎨 **Vue.js** for frontend applications
+- ⚙️ **Node.js** for pretty much everything else
+- ☁️ **AWS** to run and host it all
 
-<p align="center">Using the following technology</p>
+- 🎓 Trained at **SERC** (South Eastern Regional College)
+- ⚡ Fun fact: I've done 24-hour hackathons — I like picking up new tech fast and shipping something by the deadline
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mark-ireland/)
 
-<p align="center">
-  <img src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4" width="100"/>
-  <img src="https://avatars3.githubusercontent.com/u/6128107?s=200&v=4" width="100"/>
-  <img src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" width="100"/>
-  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="100"/>
-  <img src="https://avatars0.githubusercontent.com/u/4739304?s=200&v=4" width="100"/>
-  <img src="https://avatars0.githubusercontent.com/u/1412239?s=200&v=4" width="100"/>
-</p>
+<hr />
+
+### 🛠️ Tech I reach for
 
 <p align="center">
-  (and a bunch more....)
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
-<!--
-**MooseTheCoder/moosethecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>(and a bunch more…)</i></p>
