@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/91534122?v=4" width="160" style="border-radius:50%"/>
+  <img src="https://pocketbox.co.uk/wp-content/uploads/2025/06/pblogo-copy.png" width="160" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hi, I'm Mark 👋</h1>
 
 <p align="center">
-  <b>Software Engineer &amp; Hardware Specialist</b> · Belfast, Northern Ireland 🇬🇧<br/>
+  <b>CTO, Software Engineer &amp; Networking Wizard</b> · Belfast, Northern Ireland 🇬🇧<br/>
   I write code — mostly APIs, frontends, and whatever the job needs.
 </p>
 
@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 What I do
 
-I build software end to end — currently at **Safety NetAccess** as a Software Engineer / Hardware Specialist, where working across both sides of the stack (and the actual hardware) is part of the day job.
+I build software end to end — currently at **Pocket Box** as their CTO, where working across both sides of the stack (and the actual hardware) is part of the day job.
 
 - 🔧 **PHP** for building APIs
 - 🎨 **Vue.js** for frontend applications
